@@ -1,6 +1,5 @@
-Goal: 
 
-Develop an automation program using Java and Cucumber-JVM that is executable using command line. Your submission must use Maven and include a README file with instructions on how to run the test(s) and the XML from the Response you received.
+Automation example using Java and Cucumber-JVM that is executable using command line. 
 
 What to test:
 
